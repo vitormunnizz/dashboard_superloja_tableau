@@ -1,5 +1,3 @@
-# Projeto Tableau: Análise de Vendas por Categoria, Subcategoria e Produto
-
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido no Tableau para analisar o desempenho de vendas de uma loja de varejo, utilizando a base de dados **Exemplo-Superloja.xlsx**. O objetivo é explorar as vendas por **categoria**, **subcategoria** e **produto**, permitindo uma visualização clara das tendências de vendas, lucros e insights estratégicos. A análise é voltada para otimizar as operações de vendas, melhorar o planejamento e maximizar o desempenho de vendas.
