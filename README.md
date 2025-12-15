@@ -84,11 +84,18 @@ Essa base de dados inclui várias linhas de transações que permitem a análise
 - **Otimização de Estoque e Logística**: Auxilia na gestão de estoque e planejamento de compras com base nas vendas por produto e região.
 - **Aperfeiçoamento de Estratégias de Vendas**: Ajuda a direcionar campanhas de marketing e ações promocionais baseadas nas categorias e subcategorias mais lucrativas.
 
-## Contribuidores
+## Autor
 
-- **Desenvolvedor/Analista**: Vitor Muniz
-- **Contato**: vitor13muniz09@gmail.com
+**Vitor Hugo Muniz de Sousa Santos**
+
+Engenheiro da Computação | Desenvolvedor Front-end
+
+[vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+[www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
 
 ## Licença
 
-Este projeto foi desenvolvido para fins internos e não deve ser distribuído sem a devida autorização.
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+**Se este projeto te ajudou, deixe uma estrela no repositório!**```
